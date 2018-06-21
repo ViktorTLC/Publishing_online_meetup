@@ -5,9 +5,9 @@ How to make and publish a webpage with GitHub
 
 Cheat Sheet Sources
 
-[Markdown Cheat Sheet]  (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   
-[Git Cheat Sheet]  (https://maegul.github.io/git-Commands-Cheat-Sheet/)
+[Git Cheat Sheet](https://maegul.github.io/git-Commands-Cheat-Sheet/)
   
 ### 1.2.Headings
 
@@ -26,7 +26,7 @@ Cheat Sheet Sources
   
   ### 1.5 Pictures
   
-  ![This is intended Text blank] (Publishing_online_meetup/River.jpg "This is caption")
+  ![This is intended Text blank](Publishing_online_meetup/River.jpg "This is caption")
   
   ### 1.6 Mathematical Symbol
   
