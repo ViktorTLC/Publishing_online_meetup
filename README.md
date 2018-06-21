@@ -22,7 +22,7 @@ Cheat Sheet Sources
   ### 1.4.Emojis
   
   ### 1.5 Pictures
-  ![This is intended Text blank] (Leave the source here. "This is caption")
+  ![This is intended Text blank] (Publishing_online_meetup/River.jpg "This is caption")
   
 
 
