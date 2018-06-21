@@ -26,7 +26,9 @@ Cheat Sheet Sources
   
   ### 1.5 Pictures
   
-  ![This is intended Text blank](Publishing_online_meetup/River.jpg "This is caption")
+  Embed an image
+  
+  ![This is intended blank](Publishing_online_meetup/River.jpg "This is caption")
   
   ### 1.6 Mathematical Symbol
   
