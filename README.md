@@ -12,4 +12,5 @@ How to make and publish a webpage with GitHub
   _Alternatively_
   
   * This is dot point
+  
   ** This is sub dot point
