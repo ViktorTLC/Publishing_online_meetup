@@ -1,10 +1,14 @@
 # Publishing_online_meetup
 How to make and publish a webpage with GitHub
 
-## Markdown functions
-### Headings
+## 1.Markdown functions
+Cheat Sheet Sources
+  [Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  [Git Cheat Sheet] (https://maegul.github.io/git-Commands-Cheat-Sheet/)
+  
+### 1.2.Headings
 
-### Emphasis
+### 1.3.Emphasis
   **This is bold text**
   __Alternatively__
   
@@ -15,5 +19,10 @@ How to make and publish a webpage with GitHub
   
   ** This is sub dot point
   
-  -what is this
+  ### 1.4.Emojis
+  
+  ### 1.5 Pictures
+  ![This is intended Text blank] (Leave the source here. "This is caption")
+  
+
 
