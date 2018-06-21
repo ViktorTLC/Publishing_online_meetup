@@ -4,6 +4,7 @@ How to make and publish a webpage with GitHub
 ## 1.Markdown functions
 Cheat Sheet Sources
   [Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  
   [Git Cheat Sheet] (https://maegul.github.io/git-Commands-Cheat-Sheet/)
   
 ### 1.2.Headings
