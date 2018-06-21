@@ -26,11 +26,11 @@ Cheat Sheet Sources
   
   ### 1.5 Pictures
   
-  Embed an image
+  Embed image
   
   ![This is intended blank](River.jpg "This is caption")
   
   ### 1.6 Mathematical Symbol
   
-  $$ \sum{} $$
+  $$ \sum{} $$ [Unfortunately this is only for Jupyter]
 
